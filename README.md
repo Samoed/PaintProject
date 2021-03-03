@@ -1,14 +1,15 @@
 # PaintProject
+[Установка](#Установка) • [Документация](#Документация) • [Скриншоты](#Скриншоты)
 
-## Установка
+# Установка
 
-### Windows 
+## Windows 
 
-#### Установка из бинарных файлов
+### Установка из бинарных файлов
 
 1. Установить из [.msi файла](https://github.com/Samoed/PaintProject/releases/download/1.0/Setup.msi)
 
-#### Установка из исходного кода
+### Установка из исходного кода
 
 Установка из исходных файлов. Скачать код:
 
@@ -22,9 +23,9 @@ git clone https://github.com/Samoed/PaintProject.git
 
    ![](.\doc\img\Screenshot_1.png)
    
-   3. Запустить Paint.sln в Visual Studio или Raider 
+3. Запустить Paint.sln в Visual Studio или Raider 
 
-### MasOS && Linux
+## MasOS && Linux
 
 Установка из исходных файлов. Скачать код:
 
@@ -40,5 +41,23 @@ git clone https://github.com/Samoed/PaintProject.git
 
    
 
-   3. Запустить Paint.sln в Visual Studio или Raider
+3. Запустить Paint.sln в Visual Studio или Raider
+
+# Документация
+
+## Кисти
+
+Доступные кисти:
+
+* Обчнчная кисть
+* Линия
+* Звезда
+* Окружность
+* Ластик
+
+![Кисти](.\doc\img\Screenshot_2.png)
+
+
+
+# Скриншоты
 
