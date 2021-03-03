@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint", "Paint\Paint.csproj", "{D210A54D-C420-4B3B-A4DD-7D157DF422EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianTransform", "MedianTransform\MedianTransform.csproj", "{E5F46CD5-15A8-44EC-8270-9FA3E1BA98B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseTransform", "ReverseTransform\ReverseTransform.csproj", "{E01369EF-6622-4BD8-96BF-B4C028F0CEDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColourSelect", "ColourSelect\ColourSelect.csproj", "{DA965B00-2743-4A57-BAA7-233F3B48B021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D210A54D-C420-4B3B-A4DD-7D157DF422EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D210A54D-C420-4B3B-A4DD-7D157DF422EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D210A54D-C420-4B3B-A4DD-7D157DF422EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D210A54D-C420-4B3B-A4DD-7D157DF422EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F46CD5-15A8-44EC-8270-9FA3E1BA98B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F46CD5-15A8-44EC-8270-9FA3E1BA98B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F46CD5-15A8-44EC-8270-9FA3E1BA98B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F46CD5-15A8-44EC-8270-9FA3E1BA98B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01369EF-6622-4BD8-96BF-B4C028F0CEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01369EF-6622-4BD8-96BF-B4C028F0CEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01369EF-6622-4BD8-96BF-B4C028F0CEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01369EF-6622-4BD8-96BF-B4C028F0CEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA965B00-2743-4A57-BAA7-233F3B48B021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA965B00-2743-4A57-BAA7-233F3B48B021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA965B00-2743-4A57-BAA7-233F3B48B021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA965B00-2743-4A57-BAA7-233F3B48B021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D31BE41-1F8E-4B31-B4D5-33178126B41D}
+	EndGlobalSection
+EndGlobal
