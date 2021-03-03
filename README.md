@@ -21,7 +21,7 @@ git clone https://github.com/Samoed/PaintProject.git
 
 2. Скачать исходные файлы 
 
-   ![](.\doc\img\Screenshot_1.png)
+   ![](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_1.png)
    
 3. Запустить Paint.sln в Visual Studio или Raider 
 
@@ -37,7 +37,7 @@ git clone https://github.com/Samoed/PaintProject.git
 
 2. Скачать исходные файлы 
 
-   ![](.\doc\img\Screenshot_1.png)
+   ![](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_1.png)
 
    
 
@@ -49,15 +49,44 @@ git clone https://github.com/Samoed/PaintProject.git
 
 Доступные кисти:
 
-* Обчнчная кисть
+* Обычная кисть
 * Линия
 * Звезда
 * Окружность
 * Ластик
 
-![Кисти](.\doc\img\Screenshot_2.png)
+![Кисти](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_2.png)
 
+## Выбор цвета
 
+На выбор доступны 3 цвета, для задания другого цвета перейдите в меню другое
 
-# Скриншоты
+![Цвета](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_3.png)
 
+![Меню другое](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_4.png)
+
+## Изменение изображения
+
+Можно выбрать исходное изображение и сохранить изменённое
+
+![Выбор изображения](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_5.png)
+
+## Расположение окон
+
+Меню изменения расположения окон:
+
+* Каскадом (окна поверх друг друга)
+* Слева на право 
+* Сверху вниз
+* Упорядочить значки
+
+![Изменение расположения окон](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_5.png)
+
+## Расширения
+
+Доступны 2 расширения:
+
+* Переворот изображения (переворачивает изображение на 90 градусов)
+* Медианный фильтр (каждый пиксель заменяется на среднее значение соседних пикселей) 
+
+![Расширения](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_6.png)
