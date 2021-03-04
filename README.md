@@ -1,5 +1,5 @@
 # PaintProject
-[Установка](#Установка) • [Документация](#Документация) • [Скриншоты](#Скриншоты)
+[Установка](#Установка) • [Документация](#Документация) 
 
 # Установка
 
@@ -57,9 +57,19 @@ git clone https://github.com/Samoed/PaintProject.git
 
 ![Кисти](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_2.png)
 
+Рядом меню размера кисти, где надо задать требуеммый размер кисти.
+
 ## Выбор цвета
 
-На выбор доступны 3 цвета, для задания другого цвета перейдите в меню другое
+На выбор доступны 3 цвета:
+
+* Красный 
+
+* Синий
+
+* Зеленый
+
+Для задания другого цвета перейдите в меню "Другой". Там можно задать цвета в десятичной системе счистления и в шестнадцатиричной. Для сменя системы счистления надо нажать на заданный тип (меняется с помощью radiobutton). Заданный увет автоматически перевелется в другую систему счистления.
 
 ![Цвета](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_3.png)
 
@@ -80,7 +90,7 @@ git clone https://github.com/Samoed/PaintProject.git
 * Сверху вниз
 * Упорядочить значки
 
-![Изменение расположения окон](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_5.png)
+![Изменение расположения окон](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_6.png)
 
 ## Расширения
 
@@ -89,4 +99,7 @@ git clone https://github.com/Samoed/PaintProject.git
 * Переворот изображения (переворачивает изображение на 90 градусов)
 * Медианный фильтр (каждый пиксель заменяется на среднее значение соседних пикселей) 
 
-![Расширения](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_6.png)
+![Расширения](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_7.png)
+
+## Рисунок
+
