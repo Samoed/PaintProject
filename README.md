@@ -25,7 +25,7 @@ git clone https://github.com/Samoed/PaintProject.git
    
 3. Запустить Paint.sln в Visual Studio или Raider 
 
-## MasOS && Linux
+## MacOS && Linux
 
 Установка из исходных файлов. Скачать код:
 
