@@ -57,7 +57,7 @@ git clone https://github.com/Samoed/PaintProject.git
 
 ![Кисти](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_2.png)
 
-Рядом меню размера кисти, где надо задать требуеммый размер кисти.
+Рядом меню размера кисти, где надо задать требуемый размер кисти.
 
 ## Выбор цвета
 
@@ -69,7 +69,7 @@ git clone https://github.com/Samoed/PaintProject.git
 
 * Зеленый
 
-Для задания другого цвета перейдите в меню "Другой". Там можно задать цвета в десятичной системе счистления и в шестнадцатиричной. Для сменя системы счистления надо нажать на заданный тип (меняется с помощью radiobutton). Заданный увет автоматически перевелется в другую систему счистления.
+Для задания другого цвета перейдите в меню "Другой". Там можно задать цвета в десятичной системе счисления и в шестнадцатеричной. Для смены системы счисления надо нажать на заданный тип (меняется с помощью radiobutton). Заданный цвет автоматически переведется в другую систему счисления.
 
 ![Цвета](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_3.png)
 
@@ -77,7 +77,7 @@ git clone https://github.com/Samoed/PaintProject.git
 
 ## Изменение изображения
 
-Можно выбрать исходное изображение и сохранить изменённое
+Можно выбрать исходное изображение и сохранить изменённое. Также можно создать новое изображение.
 
 ![Выбор изображения](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_5.png)
 
@@ -103,3 +103,8 @@ git clone https://github.com/Samoed/PaintProject.git
 
 ## Рисунок
 
+ Меню рисунка. Форма размер холста меняет размер текущего окна. 
+
+![Meню рисунка](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_8.jpg)
+
+![Изменение размера активного окна](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_9.jpg)
