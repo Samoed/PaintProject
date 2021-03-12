@@ -105,6 +105,6 @@ git clone https://github.com/Samoed/PaintProject.git
 
  Меню рисунка. Форма размер холста меняет размер текущего окна. 
 
-![Meню рисунка](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_8.jpg)
+![Meню рисунка](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_8.png)
 
-![Изменение размера активного окна](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_9.jpg)
+![Изменение размера активного окна](https://raw.githubusercontent.com/Samoed/PaintProject/main/doc/img/Screenshot_9.png)
